@@ -6,8 +6,8 @@ Full Stack Developer
 
 * 🌍  I'm based in Reus, Spain
 * ✉️  You can contact me at [mohammed.kebdani.cmrm15@gmail.com](mailto:mohammed.kebdani.cmrm15@gmail.com)
-* 🧠  I'm learning Java and React
-* ⚡  I'm currently studying a Java & React BootCamp with Fundació Esplai
+* 🧠  I'm learning SPFx and React
+* ⚡  I'm currently working as O365 Develover & Administrator
 
 ### Skills
 
